@@ -5,6 +5,8 @@ In my current role as a Senior Data Analyst at Citigroup, I work on enterprise d
 My core strengths include advanced SQL development, query optimization, data modeling, ETL/ELT pipelines, Power BI dashboard development, DAX, Power Query, row-level security, incremental refresh, paginated reports, and data governance using Collibra. I also have extensive experience working with KeyBank, Verizon, and MetLife, delivering scalable reporting and analytics solutions across banking, telecom, and insurance domains.
 
 I enjoy transforming complex data into meaningful insights and building data-driven solutions that help organizations make informed business decisions. I am currently looking for opportunities where I can leverage my expertise in SQL, Power BI, data engineering, and AI-driven analytics to deliver impactful business outcomes.
+
+
 CORE COMPETENCIES & TECHNICAL SKILLS
 Analytics & BI	Power BI (DAX, Power Query, Direct Query), Tableau, Looker, Looker Studio, Excel
 SQL & Databases	SQL Server, Oracle, DB2, MongoDB, Hive, Spark, T-SQL, PL/SQL, query optimization, indexing
